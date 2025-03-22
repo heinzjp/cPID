@@ -1,5 +1,8 @@
 # cPID
 
+## Description
+The cPID library is a C-based implementation of a PID (Proportional-Integral-Derivative) controller designed for embedded systems and general-purpose control applications.
+
 ## Building
 At the top level directory (with the Makefile) run the command:
 
